@@ -4,13 +4,10 @@ Este es un repositorio para guardar los materiales de los cursos de informatica 
 ## ¿Quieres aportar?
 Abre un pull request que cuide el formato de las carpetas y sera revisado e integrado.
 
-<!--
+## Ramos Incorporados
+- [LP](https://github.com/INF-USM/INF155)
+- [TALF/Teorica](https://github.com/INF-USM/INF253)
 
-**Here are some ideas to get you started:**
+## Links Utiles
+- [Almacen Camello](https://usmcl-my.sharepoint.com/personal/carlos_bravora_usm_cl/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcarlos%5Fbravora%5Fusm%5Fcl%2FDocuments%2F%F0%9D%98%BC%F0%9D%99%87%F0%9D%99%88%F0%9D%98%BC%F0%9D%98%BE%F0%9D%99%80%F0%9D%99%89%20%F0%9D%98%8A%F0%9D%98%A2%F0%9D%98%AE%F0%9D%98%A6%F0%9D%98%AD%F0%9D%98%AD%F0%9D%98%B0)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
